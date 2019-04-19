@@ -9,3 +9,4 @@ For my lego project I made a lego spaceship that contained 20 pieces. When compo
 The audience for my project would be children. My instruction was extrememly easy to follow and clear.
 To deliver my instructions i used google slides. I used google slides because i am very familiar with using it. The factors that made me use this is my experience with it. I have been using google slides or powerpoint for years. Google slides made it easy for my audience as well because most people are familar with powerpoint and google slides and how to use it. 
 This week I learned how to make an instruction set for an audience. I learned how to make an undertandable intruction set. However, the legos were kind of easy. I am looking forward to making instruction sets for more complex things like cook books etc.
+[link for my instructions] (https://docs.google.com/presentation/d/1mPAmw52x__vYAE4A6KssZtD0IO_cTzg3VKP7uu_Jkr0/edit?usp=sharing)
